@@ -6,4 +6,13 @@
 * This projcet is in dev stage and we expect to devlope into a big project with a real life application.
 * The Project idea will be shared with some diagram in the upcoming week.
 
+
+## Base Server Files
+
+* the Base server files are using ssh through paramiko to communicate between the server.
+* in this protocol we use this to communicate as it is the first level of the communaction.
+
+#### We use MTP funstion to send the code encrypted through trans_fucntion.
+
+
 @Nandz024 professor and contributor.
