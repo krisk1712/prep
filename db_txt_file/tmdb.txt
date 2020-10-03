@@ -1,0 +1,17 @@
+0
+sis
+1
+solar
+2
+sps
+3
+sps
+4
+trans_on
+0
+sos
+1
+lukumu
+2
+solaor
+EOF
