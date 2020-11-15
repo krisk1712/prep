@@ -1,0 +1,86 @@
+This file is the most important File for this Project. [-Cake-]
+
+There are certain points to be covered for this project to take success
+
+-> Client -- Flynn
+-> Server -- Valkirye 
+
+note: Bob and alice are used in a diffrent protocol section of this project so please try to understand the new technical terms.
+
+Protocols:-
+
+1. Lu - for the conncetion
+2. Mu - for bonding two Devices
+3. Paris Protocol - To keep the connection alive between devices. [in simple CS terms mariage between two devices across the world.]
+4. Client [flyn] has a MOUSSE MSG to accept or decline 
+
+
+Steps to be done and devices Questions to be answred:-
+
+1. The Lu protocol will be alive forever in Client side [flyn] and the server side [valkirye] should intiatie something or the client will DIE.
+
+2. The Mu protocol will wait till a good Lu protocol message comes from the Server [valkirye] because the connection as to be established forever.
+
+3. If the Server decide paris Protocl has to be done with the client it has to follow certain messaging protocols to be follwed.
+
+4. If the Server Decided to estavlish paris Protocol with Client then it has to be ready to pull of the next Protocol.
+
+  4.1. The Mousse Protocol will have be accepted at any circumstance or in case of emergency.
+
+5. The Client is waiting for a permanent Lu protocol and paris protocol from the server [valkirye].
+
+6. If the sever verifies everthing in the client side and what ever the secuirty measure that the sever takes will be and have to be accepted by the client.
+
+7.IMPORTANT - If NO (or) negative Lu and Mu and Paris Protocol then the client [flyn] will die.
+
+
+This is the basic princlple of the projcet. Please review the message and client [flyn] which is the the most important part because it will be have many codes line to 
+
+know wheather server [valkirye] would accept it or not.
+
+
+
+IMPORTANT.
+--> in javascript there is a function called PROMISE and AWAIT. the same function is follwed here. The PROMISE function is excuted in the client [flyn]
+
+and AWAIT is being follwed till the Lu , Mu , paris protocol to be there from server [valkirye]. 
+
+
+
+IMPORTANT
+--> NEVER ever care ablout MOUSSE in client [flyn] or server [valkirye] because at anypoint of time if the there is a emrgency or Lu protocol between
+
+client and server let the server decide. The client [flyn] has protocol decison of Lu because it need the communication and Paris protocol to act accordingly.
+
+
+
+
+
+Project contributers-> Nithun
+
+
+
+
+:- Any Strong decisions taken will be accepted in this project as it is Open Source and feel free to reply ASAP because its the best project that i have done in my life.
+
+:- If needed any changes or something Please review the file and reply to that file ASAP and read this file. [WITHOUT ANY PROBLEM]
+
+
+
+
+Quote for the team
+"Faith in god will never go out of me when i ask something, its just he is questioning my faith through struggles. But i am not going to leave god or what i asked at any point of time"
+--Oosho
+
+
+
+
+
+
+
+
+
+
+
+
+
